@@ -32,7 +32,7 @@ module.exports = {
     // Various Dev Server settings
     // host: 'admin.tc.com', // can be overwritten by process.env.HOST 192.168.43.117
     host: 'admin.tc.com', // can be overwritten by process.env.HOST192.168.43.117
-    port: 11002, // can be overwritten by process.env.PORT, if port is in use, a fre
+    port: 11007, // can be overwritten by process.env.PORT, if port is in use, a fre
     // host: 'localhost',// e one will be determined
     autoOpenBrowser: false,
     errorOverlay: true,
